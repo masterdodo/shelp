@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "734868080522",
+    "firebase_url": "https://shelp-1e8bd.firebaseio.com",
+    "project_id": "shelp-1e8bd",
+    "storage_bucket": "shelp-1e8bd.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:734868080522:android:af14814eb59e6ab2862a73",
+        "android_client_info": {
+          "package_name": "com.arist.shelp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "734868080522-hrl6nkrlc7mlgc78oo2seb67qf1tn9uq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAGCfZMei8M50HFW_hA1Cuwa0J319VZa4U"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "734868080522-hrl6nkrlc7mlgc78oo2seb67qf1tn9uq.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
